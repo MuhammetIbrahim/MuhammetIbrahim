@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhammetIbrahim
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning an Artifical inteligence
 - 🌱 I’m currently learning git, Data Structures and Algorithms, Math
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me kayamuhammetibrahimm@gmail.com

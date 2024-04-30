@@ -4,11 +4,11 @@
 
 💻 Now, I am excited to delve deeper into the .NET ecosystem, particularly ASP.NET, MSSQL, and Angular, with the goal of becoming a proficient full-stack developer. While I currently possess a solid foundation in C# fundamentals and MSSQL queries, I am dedicated to broadening my knowledge through ADO.NET and WinForms.
 
-🌟 On the frontend, I am proficient in HTML, CSS, and the Bootstrap framework, ensuring seamless user experiences across platforms.
+🌟 On the frontend, I have knowledge of HTML, CSS, and the Bootstrap framework, ensuring user experiences across platforms.
 
 📚 With a relentless appetite for learning, I embrace Leonardo da Vinci's philosophy: "I am always doing what I cannot do, in order that I may learn how to do it." This mindset drives me to continuously expand my skill set and adapt to emerging technologies.
 
-🤝 Leveraging my excellent communication skills cultivated through my previous role, I am adept at collaborating with diverse teams to achieve common goals.
+🤝 Leveraging communication skills cultivated through my previous role, I am adept at collaborating with diverse teams to achieve common goals.
 
 Let's connect and collaborate on exciting projects that push the boundaries of innovation!
 

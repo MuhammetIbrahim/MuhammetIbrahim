@@ -1,36 +1,38 @@
-# 🚀 Aspiring Python ML/AI Developer
+#  🚀 Aspiring AI & Backend Engineer | Building Scalable and Intelligent Systems  
 
-I am passionate about leveraging machine learning and artificial intelligence to solve real-world problems. Currently pursuing a degree in **Management Information Systems (MIS)**, I am eager to transition into the dynamic field of AI-powered backend development.
+Currently pursuing a **Bachelor’s in Management Information Systems (MIS)** at **Istanbul University**, I am passionate about **backend engineering, artificial intelligence, and distributed systems**. My expertise lies in building **scalable, high-performance applications** with a strong focus on **AI model development, API engineering, and real-time data processing**.  
 
-## 🛠️ Professional Experience
-
-During my tenure at **"Online Vitrin"**, a local e-commerce company:
-- I honed my Python skills by writing scripts to handle JSON data via APIs from Airtable.
-- Took on leadership opportunities as an **operations team leader**, thriving as a problem-solver and tackling challenges head-on.
-
-## 💻 Technical Skills
-
-- **Backend Development**: Expertise in Python, Django, and PostgreSQL to design scalable, efficient systems.
-- **Machine Learning & AI**: Proficient in **scikit-learn**, **TensorFlow**, and **Pandas** for building intelligent systems.
-- **Frontend Development**: Knowledge of **HTML**, **CSS**, and the **Bootstrap** framework, with plans to expand skills in **React** and **TypeScript**.
-
-## 🌟 Philosophy & Learning Approach
-
-With a relentless appetite for learning, I embrace Leonardo da Vinci's philosophy:
-
-> "I am always doing what I cannot do, in order that I may learn how to do it."
-
-This mindset drives me to continuously expand my knowledge, adapt to emerging technologies, and deliver impactful solutions.
-
-## 🤝 Collaboration
-
-Leveraging strong communication skills cultivated through my professional experiences, I excel in collaborating with diverse teams to achieve common goals.
+I have hands-on experience designing **AI-enhanced backend systems**, leveraging **FastAPI, PostgreSQL, Redis, and Docker** to build efficient, scalable architectures. My focus is on **bridging the gap between AI models and production-ready applications** by integrating and developing machine learning workflows into real-world systems.  
 
 ---
 
-Let’s connect and collaborate on projects that merge AI/ML with scalable backend systems to redefine innovation!
+## 📌 Technical Focus & Experience  
 
-<!---
-MuhammetIbrahim/MuhammetIbrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **FastAPI & Python** – High-performance API development, WebSockets, JWT authentication.  
+- **PostgreSQL & Redis** – Optimized database queries, caching, and message queuing.  
+- **Docker & Cloud (AWS/GCP)** – Containerized deployment for scalable applications.  
+- **AI/ML & Data Science** – Probability, statistics, NumPy, Pandas, and Matplotlib.  
+- **Machine Learning Model Development** – Linear regression, demand prediction, AI-powered automation.  
+- **Git & DevOps** – CI/CD pipelines, Linux scripting, infrastructure automation.  
+
+---
+
+## 🚀 Key Projects  
+
+### 🔹 ATTN: AI-Powered Attendance System  
+A **FastAPI, PostgreSQL, and Redis-based real-time attendance tracking system** utilizing **QR codes, WebSockets, and AI-powered face recognition** to handle **20,000+ students efficiently**. The system integrates **caching and message queues** for optimized performance, ensuring **accurate and scalable authentication**.  
+
+### 🔹 Demand Prediction with Machine Learning  
+Developed a **linear regression model** to analyze **demand patterns**, leveraging **AI-driven forecasting** for optimized decision-making and resource planning.  
+
+---
+
+## 🎯 Future Goals  
+I am currently expanding my knowledge in **AI/ML frameworks** (**TensorFlow, PyTorch, Scikit-Learn**) to not only **integrate** but also **develop and fine-tune my own machine learning models**.  
+
+My goal is to specialize in **MLOps for model deployment**, ensuring that **AI models are efficiently integrated into scalable backend infrastructures**. Additionally, I am deepening my understanding of **system design, distributed computing, and backend optimization** to enhance **AI-driven applications**.  
+
+Inspired by **Leonardo da Vinci’s philosophy**:  
+> *"I am always doing what I cannot do, in order that I may learn how to do it."*  
+
+I constantly push myself to **explore the intersection of AI, backend engineering, and intelligent automation**. Let’s connect and collaborate on **cutting-edge AI-powered projects**! 🚀  

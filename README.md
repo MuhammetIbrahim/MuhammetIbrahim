@@ -1,32 +1,55 @@
-# 🚀 AI & Backend Engineer | Building Scalable & Intelligent Systems
+# 👋 Hi, I'm Muhammet İbrahim Kaya
 
-Currently pursuing a **B.Sc. in Management Information Systems (MIS)** at **Istanbul University**, I specialize in **backend engineering, AI model integration, and distributed systems**. My expertise lies in designing **scalable, high-performance applications**, integrating **AI into real-world systems**, and optimizing **backend infrastructure**.
+🚀 **Backend & AI Engineer** | Scalable, Intelligent Systems Architect  
+🎓 Management Information Systems @ Istanbul University  
+💻 Passionate about building real-time, production-grade systems with AI/ML integrations.
 
-## 🔹 Technical Expertise
-- **FastAPI & Python** – High-performance API development, WebSockets, JWT authentication.  
-- **PostgreSQL & Redis** – Optimized queries, caching, message queues.  
-- **Docker & Cloud (AWS/GCP)** – Containerized deployment for scalable applications.  
-- **AI/ML & Data Science** – Probability, statistics, NumPy, Pandas, Matplotlib.  
-- **Predictive Analytics & Automation** – Demand forecasting using weighted linear regression models.  
-- **Git & DevOps** – CI/CD pipelines, Linux scripting, infrastructure automation.  
+---
 
-## 🚀 Key Projects
-### 🔹 ATTN: AI-Powered Attendance System  
-A **real-time attendance tracking system** for **20,000+ students**, using:  
-✅ **FastAPI, PostgreSQL, Redis, WebSockets, JWT authentication**  
-✅ **QR code-based check-ins**  
-✅ **AI-powered face recognition for identity verification**  
-✅ **Optimized caching & message queues for performance**  
+## 🛠️ Tech Stack
 
-### 🔹 Demand Prediction with Weighted Linear Regression  
-Developed a **custom-weighted linear regression model** for **demand forecasting**, analyzing key parameters to **optimize decision-making** and **resource planning**.  
+- **Languages & Frameworks:** C#, ASP.NET Core, Python, FastAPI  
+- **Databases:** PostgreSQL, Redis  
+- **DevOps & Infra:** Docker, AWS/GCP, NGINX, CI/CD pipelines  
+- **AI/ML Integration:** GPT-4o, LangChain, Vector DBs (Pinecone), ML Model APIs  
+- **Other Tools:** Git, Rider, VS Code, Postman, Supabase, n8n
 
-## 🎯 Future Goals
-Currently expanding my expertise in **AI/ML frameworks** (*TensorFlow, PyTorch, Scikit-Learn*) to develop and deploy **machine learning models efficiently**. My focus is on:  
-- **MLOps** – Automating ML model deployment and lifecycle management.  
-- **System Design & Distributed Computing** – Building large-scale, high-availability systems.  
-- **Backend Optimization** – Ensuring AI models seamlessly integrate into production environments.  
+---
 
-> **"I am always doing what I cannot do, in order that I may learn how to do it."** – Leonardo da Vinci  
+## 🏆 Team Projects with ATTN
 
-I am passionate about the intersection of **AI, backend engineering, and intelligent automation**. Let’s connect and collaborate on cutting-edge AI-powered projects! 🚀  
+### 🥈 Uneeds – 2nd Place @ MIS Hackathon'25
+> **AI-powered platform** that connects university clubs with companies using intelligent matchmaking, vector search, and automated negotiation.
+
+- Built with: **Docker, Supabase, Pinecone, GPT-4o, HTML/CSS/JS, n8n**
+- Delivered full MVP in **7 hours** with a 5-person team.
+- 🎯 Uses LLMs + RAG to understand needs and suggest the best-fit collaboration.
+
+---
+
+### 🔹 ATTN – AI-Powered Attendance System
+> Real-time attendance system for 20,000+ students with AI-based face recognition and QR-based validation.
+
+- Built with: **FastAPI, WebSockets, PostgreSQL, Redis, Docker**
+- Uses TTL-based caching, background task queues, and live student verification.
+- Designed for high performance and scalability with minimal delay.
+
+---
+
+## 🎯 Goals
+
+Currently focused on:
+- Advanced backend architecture and distributed system design  
+- Real-world AI/ML integration (LLMs, automation agents)  
+- Efficient, scalable product development using cloud-native tooling  
+
+> *"I am always doing what I cannot do, in order that I may learn how to do it."* – Leonardo da Vinci
+
+---
+
+## 📫 Let's Connect!
+
+- 📍 Istanbul, Türkiye  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammet-ibrahim-kaya-a186b62bb/)
+- 🧠 Let's collaborate on **AI-first platforms**, real-time systems, and startup-grade ideas!
+

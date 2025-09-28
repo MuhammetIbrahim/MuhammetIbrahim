@@ -1,87 +1,112 @@
 # 👋 Hi, I'm Muhammet İbrahim Kaya
 
-## 🚀 Backend & AI Engineer
-Building scalable, intelligent systems with **Python**, **FastAPI**, **RAG**, and **LLMs**.  
-🎓 **Management Information Systems** @ *Istanbul University*
+## 🚀 Backend & AI Engineer | Teknofest 2025 Finalist | EdTech Co-Founder
 
-💻 Passionate about building real-time, production-grade systems where backend logic meets intelligent automation.
+Building scalable, intelligent systems with **Python**, **FastAPI**, **LangChain**, and **LLMs**.  
+🎓 **Management Information Systems** @ *Istanbul University*  
+🏆 **National Recognition:** Featured in Hürriyet, Yirmidört TV, MSN Turkey  
+💻 Shipping production systems that serve thousands of real users daily.
 
 ---
 
-## 🌟 Featured Project: AUZEF Smart Student Assistant
+## 🌟 Featured Project: informis-ai.tr - Official University AI Assistant
 
-🤖 **AUZEF Smart Student Assistant**  
-A comprehensive, AI-powered assistant designed to serve ~200,000 students at Istanbul University.  
-The system interprets natural language queries to provide instant, accurate, 24/7 answers from official university documents and real-time announcements.
+🤖 **informis-ai.tr** - [Live Demo](https://informis-ai.tr)  
+AI-powered assistant officially promoted by Istanbul University, serving prospective MIS students 24/7.  
+Featured on the university's main page as the official departmental advisor.
 
 **Architecture:**  
-Engineered a hybrid AI architecture combining **Retrieval-Augmented Generation (RAG)** for deep knowledge with a dynamic module for live announcements.  
-The system features a multi-layered backend managing user sessions with **Redis** and ensuring data persistence with **PostgreSQL**.
+Engineered with **LangGraph** multi-agent orchestration combining **Agentic RAG** for precise information retrieval.  
+The system features Redis-based session management with 24-hour UUID tracking for seamless user experience.
 
 **Key Features:**
-- Real-time user authentication via web scraping (AKSIS)
-- Automated data ingestion for announcements
-- Robust API for a live chat interface
+- Natural language understanding for curriculum, faculty, and admission queries
+- Context-aware conversations with session persistence
+- Rate-limited async endpoints with SlowAPI
+- Production deployment with Docker Compose (Nginx + Certbot + Redis)
 
 **Tech Stack:**  
-Python, FastAPI, Langchain, Gemini, Pinecone, PostgreSQL, Redis, Docker
+Python, FastAPI, LangGraph, Gemini API, Redis, Docker, RAG Architecture
+
+---
+
+## 🏆 Startup: ATTN - Revolutionary Attendance System
+
+### 🥇 Teknofest 2025 Finalist | National Media Coverage
+
+Co-founded EdTech startup solving university attendance fraud, reaching national recognition.
+
+**Media Features:**
+- [Hürriyet: "End of proxy attendance era"](https://www.hurriyet.com.tr/egitim/arkadasin-yerine-imza-devri-kapaniyor-yuz-tanimali-yoklama-42959294)
+- [Yirmidört TV Coverage](https://x.com/yirmidorttv/status/1971206805440147776)
+- [Teknofest Official Results](https://www.teknofest.org/en/competitions/competition_report_detail/8591)
+
+**Technical Achievements:**
+- Handles **1000+ concurrent users** in 8-minute peak windows
+- Multi-tier security: authentication, location verification, AI facial recognition
+- Microservices architecture with Redis queues and PostgreSQL persistence
+- 99.9% uptime in production environment
+
+**Built with:**  
+FastAPI, PostgreSQL, Redis, Docker, GCP, Computer Vision
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
-Python, FastAPI
-
-**Databases & Caching:**  
-PostgreSQL, Redis, Pinecone (Vector Search)
+**Backend Engineering:**  
+Python, FastAPI, Microservices, RESTful APIs, Async Programming
 
 **AI/ML Integration:**  
-Langchain, RAG Architecture, LLM Integration (Gemini, OpenAI), Vector Embeddings, Intelligent Workflows
+LangChain, LangGraph, Gemini API, RAG Architecture, Computer Vision, Vector Embeddings
 
-**DevOps & Infra:**  
-Docker, AWS/GCP, NGINX, CI/CD Principles, Linux
+**Databases & Caching:**  
+PostgreSQL, Redis, Session Management, Data Persistence
 
-**Other Tools:**  
-Git, Rider, VS Code, Postman
+**DevOps & Infrastructure:**  
+Docker, Google Cloud Platform, Load Balancing, CI/CD, Linux
 
----
-
-## 🏆 Other Team Projects
-
-### 🥈 Uneeds – 2nd Place @ MIS Hackathon'25
-AI-powered platform connecting university clubs with companies using intelligent matchmaking and vector search.
-
-**Built with:**  
-Docker, Supabase, Pinecone, GPT-4o, HTML/CSS/JS, n8n
-
-Delivered a full MVP in **7 hours** with a **5-person team**.
+**Architecture Patterns:**  
+Event-driven Design, Distributed Systems, Scalable Architectures
 
 ---
 
-### 🔹 ATTN – AI-Powered Attendance System
-Real-time attendance system for 20,000+ students with AI-based face recognition.
+## 🚀 Other Projects
 
-**Built with:**  
-FastAPI, WebSockets, PostgreSQL, Redis, Docker
-
-Designed for high performance and scalability using TTL-based caching and background task queues.
+### 📊 E-commerce Analytics Platform
+Multi-marketplace integration system unifying Trendyol, Hepsiburada, and Amazon APIs.
+- **TableRAG:** Natural language to SQL conversion via Gemini
+- **Impact:** Reduced analysis time from hours to minutes
+- **Tech:** FastAPI, Airtable API, OAuth2, Docker
 
 ---
 
-## 🎯 Goals
+## 📈 Impact Metrics
 
-Currently focused on:
-- Advanced backend architecture and distributed system design
-- Real-world AI/ML integration, focusing on LLMs and autonomous agents
-- Building efficient, scalable products using cloud-native technologies
+- 🎯 **1000+** concurrent users handled
+- 🏆 **3** production systems deployed
+- 📰 **3** national media features
+- 🚀 **99.9%** uptime achieved
+- 👥 **Thousands** of users served
 
-> *"I am always doing what I cannot do, in order that I may learn how to do it."* – Leonardo da Vinci
+---
+
+## 🎯 Current Focus
+
+- Building production-grade distributed systems
+- Scaling AI-powered applications
+- Contributing to open-source projects
+- Architecting event-driven microservices
+
+> *"Building systems that scale isn't just about code—it's about understanding real problems and delivering real solutions."*
 
 ---
 
 ## 📫 Let's Connect!
 
-📍 *Istanbul, Türkiye*  
-💼 **LinkedIn**  
-🧠 Let's collaborate on AI-first platforms, real-time systems, and startup-grade ideas!
+📍 *Istanbul, Turkey*  
+📧 **kayamuhammetibrahimm@gmail.com**  
+💼 **[LinkedIn](https://linkedin.com/in/muhammet-ibrahim-kaya-2b4a28372)**  
+🔗 **[GitHub](https://github.com/MuhammetIbrahim)**  
+
+💡 Open to: Backend Engineering, AI/ML Engineering, Technical Leadership roles

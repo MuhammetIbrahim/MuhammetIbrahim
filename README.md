@@ -4,7 +4,7 @@
 
 Building scalable, intelligent systems with **Python**, **FastAPI**, **LangChain**, and **LLMs**.  
 🎓 **Management Information Systems** @ *Istanbul University*  
-🏆 **National Recognition:** Featured in Hürriyet, Yirmidört TV, MSN Turkey  
+🏆 **International Recognition:** Featured in IDTechWire, Hürriyet, Yirmidört TV, MSN Turkey  
 💻 Shipping production systems that serve thousands of real users daily.
 
 ---
@@ -32,14 +32,14 @@ Python, FastAPI, LangGraph, Gemini API, Redis, Docker, RAG Architecture
 
 ## 🏆 Startup: ATTN - Revolutionary Attendance System
 
-### 🥇 Teknofest 2025 Finalist | National Media Coverage
+### 🥇 Teknofest 2025 Finalist | International & National Media Coverage
 
-Co-founded EdTech startup solving university attendance fraud, reaching national recognition.
+Co-founded EdTech startup solving university attendance fraud, reaching global recognition.
 
 **Media Features:**
+- [IDTechWire: "Istanbul University pilots student-built facial recognition attendance app"](https://idtechwire.com/istanbul-university-pilots-student-built-facial-recognition-attendance-app/)
 - [Hürriyet: "End of proxy attendance era"](https://www.hurriyet.com.tr/egitim/arkadasin-yerine-imza-devri-kapaniyor-yuz-tanimali-yoklama-42959294)
 - [Yirmidört TV Coverage](https://x.com/yirmidorttv/status/1971206805440147776)
-- [Teknofest Official Results](https://www.teknofest.org/en/competitions/competition_report_detail/8591)
 
 **Technical Achievements:**
 - Handles **1000+ concurrent users** in 8-minute peak windows
@@ -85,7 +85,7 @@ Multi-marketplace integration system unifying Trendyol, Hepsiburada, and Amazon 
 
 - 🎯 **1000+** concurrent users handled
 - 🏆 **3** production systems deployed
-- 📰 **3** national media features
+- 📰 **4** media features (1 international, 3 national)
 - 🚀 **99.9%** uptime achieved
 - 👥 **Thousands** of users served
 

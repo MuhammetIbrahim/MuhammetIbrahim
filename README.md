@@ -3,8 +3,11 @@
 ## 🚀 Software Developer & AI Engineer | Hackathon Champion | Co-Founder
 
 Building scalable, intelligent systems with **Python**, **FastAPI**, **React.js**, and **Generative AI**.
+
 🎓 **Management Information Systems** @ *Istanbul University* (GPA: 3.21/4.0)
+
 🏆 **Recognized by:** Siemens, Meta, Republic of Turkiye Ministry of Commerce, and Teknofest
+
 📰 **Featured in:** IDTechWire, Hurriyet, Yirmidort TV, MSN Turkey
 
 ---

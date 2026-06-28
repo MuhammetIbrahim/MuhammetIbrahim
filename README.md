@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammet İbrahim Kaya
 
-## 🚀 Technical Product Owner | I build what I own | Co-Founder @ ATTN
+## 🚀 Technical Product Owner | I build what I own
 
 I own products end-to-end — validate the problem, lead the team, **architect and write the system**, ship it, and pitch it. The engineering on this profile is the proof: I don't just spec products, I build them with **Python · FastAPI · Agentic AI · Microservices**.
 
